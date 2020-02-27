@@ -1,0 +1,9 @@
+<toast scenario="reminder">
+    <visual>
+        <binding template="ToastGeneric">
+            <text type="title">現在のローカルIPアドレス</text>
+            <text type="message">XXX.XXX.XXX.XXX</text>
+        </binding>
+    </visual>
+    <audio silent="true"/>
+</toast>
